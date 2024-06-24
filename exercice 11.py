@@ -1,6 +1,6 @@
-f = open("exercice11.txt", "x")
+f = open("exercice 11.txt", "x")
 f.write("Berthodin Paul")
-f = open("exercice11.txt", "r")
+f = open("exercice 11.txt", "r")
 content = f.read()
 print(content)
 f.close()
