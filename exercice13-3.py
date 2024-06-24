@@ -1,5 +1,8 @@
+# PAS FINI
+
 import random
 import os
+import tkinter
 
 def charger_profil():
     if os.path.exists("profil_joueur.txt"):
